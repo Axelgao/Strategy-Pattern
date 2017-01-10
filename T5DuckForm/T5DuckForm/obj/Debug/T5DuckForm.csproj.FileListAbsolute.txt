@@ -1,0 +1,11 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\bin\Debug\T5DuckForm.exe.config
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\bin\Debug\T5DuckForm.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\bin\Debug\T5DuckForm.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\bin\Debug\T5DuckClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\bin\Debug\T5DuckClassLibrary.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.Form1.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.Properties.Resources.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.csproj.GenerateResource.Cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckForm\T5DuckForm\obj\Debug\T5DuckForm.pdb

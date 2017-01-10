@@ -1,0 +1,4 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckClassLibrary\T5DuckClassLibrary\bin\Debug\T5DuckClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckClassLibrary\T5DuckClassLibrary\bin\Debug\T5DuckClassLibrary.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckClassLibrary\T5DuckClassLibrary\obj\Debug\T5DuckClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T5DuckClassLibrary\T5DuckClassLibrary\obj\Debug\T5DuckClassLibrary.pdb
